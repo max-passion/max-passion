@@ -20,5 +20,5 @@ I build **conversion-focused storefronts**, headless Shopify solutions, and back
 ---
 
 ## 🤝 Connect
-🌐 Portfolio: https://dkupper710.vercel.app
+🌐 Portfolio: https://dkupper710.vercel.app   
 📧 Email: liam46funkvzo@hotmail.com
