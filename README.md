@@ -20,16 +20,6 @@
 - 📫 How to reach me **dkupper710@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
-<!-- 
-This is my life motto:
-
-````php
-// Enquanto a vida for Open Source...
-while($life->isOpenSource()) {
-    // diz que ama codar e ama alguém inteligente
-    echo 'I love to code. I love you, ' . $name . '! ';
-}
-``` -->
 
 ## 🚀 Languages and Tools:
 
@@ -62,12 +52,10 @@ while($life->isOpenSource()) {
 <a href="https://shopify.com" target="_blank">
   <img src="https://img.icons8.com/ios/512/shopify.png" alt="shopify" width="40" height="40" />
 </a>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
-    <a href="https://github.com/DAVID-KASILAG-github-readme-stats/tree/main">
+    <a href="https://github.com/max-passion-github-readme-stats/tree/main">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DAVID KASILAG streak" src="https://github-readme-streak-stats.herokuapp.com/?user=max-passion&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
