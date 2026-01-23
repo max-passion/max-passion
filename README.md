@@ -74,4 +74,3 @@
     <img src="https://komarev.com/ghpvc/?username=max-passion">
 </a>
 <a href="https://github.com/DAVID-KASILAG/-github-readme-stats/tree/main"><img src="https://img.shields.io/github/followers/max-passion?label=Followers&style=social" alt="GitHub Badge"></a>
-````
