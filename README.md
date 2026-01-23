@@ -8,7 +8,14 @@ I build **conversion-focused storefronts**, headless Shopify solutions, and back
 
 ## 🧰 Tech Stack
 
-**Shopify / Shopify Plus** · Liquid · JavaScript · TypeScript · React · Next.js · Node.js · GraphQL · REST APIs · Tailwind · Git
+- Shopify / Shopify Plus
+- Liquid
+- JavaScript / TypeScript
+- React.js / Next.js
+- Node.js
+- GraphQL / REST APIs
+- Tailwind CSS
+- Git
 
 ---
 
