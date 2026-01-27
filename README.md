@@ -6,7 +6,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey">, I'm David Kasilag
 </h1>
 
-<h3 align="center">Full Stack Shopify Developer | Full Stack Developer</h3>
+<h3 align="center">Senior Full Stack Developer (Shopify & eCommerce)</h3>
 
 ## 🙋‍♂️ About Me
 
