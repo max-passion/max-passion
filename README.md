@@ -1,93 +1,197 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey">, I'm David Kasilag
 </h1>
 
-<h3 align="center">Full Stack Shopify Developer | Full Stack Developer</h3>
-
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m the owner of <b>My Life Style</b>
+- 💻 Senior Full-Stack Shopify Developer
+- 🛍️ Shopify & High-Performance eCommerce Specialist
+- ⚙️ Backend, Headless, Apps & Scalable Systems
 
-- 🌱 I’m currently learning **new technologies and improving my skills**
+I’m a senior full-stack engineer with 6+ years of experience building production-grade eCommerce systems — from custom Shopify themes to scalable backend services and headless storefronts.
 
-- 👯 I’m looking to collaborate on **open-source projects**
+I focus on real business outcomes:
 
-- 👨‍💻 All of my projects are available on **[my GitHub profile](https://github.com/max-passion)**
+- ⚡ Faster storefronts
+- 📈 Higher conversion rates
+- 🔒 Secure & scalable architectures
+- 🧩 Clean, maintainable code
 
-- 📫 How to reach me: **dkupper710@gmail.com**
+I enjoy working close to founders, product teams, and operators, turning messy requirements into reliable systems.
 
-- ⚡ Fun fact: **I play games and go to the gym very often**
+## 💻 Tech Stack:
 
-## 🚀 Languages and Tools
+<table align="center">
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-</a>
-<a href="https://redux.js.org" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-</a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-</a>
-<a href="https://www.mongodb.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-</a>
-<a href="https://shopify.com" target="_blank">
-  <img src="https://img.icons8.com/ios/512/shopify.png" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-</a>
-<a href="https://postman.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
-</a>
-<a href="https://jwt.io" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40"/>
-</a>
-    <br/>
+  <!-- Platforms & Cloud -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/shopify/96BF48" width="40" height="40" />
+      <br>Shopify
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+      <br>Docker
+    </td>
+  </tr>
 
-<!-- <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="David Kasilag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=max-passion&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p> -->
-</p>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+
+  <!-- Frontend -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+  </tr>
+
+  <!-- Backend & Frameworks -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" />
+      <br>GraphQL
+    </td>
+  </tr>
+
+  <!-- Databases -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+      <br>MongoDB
+    </td>
+  </tr>
+
+  <!-- Tools -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
+      <br>VS Code
+    </td>
+  </tr>
+
+</table>
+
+## 📦 What I Build
+
+- 🧱 **Custom Shopify Themes** (pixel-perfect, fast, scalable)
+- 🧩 **Shopify Apps** (private & public)
+- 🌐 **Headless Storefronts**
+- 🔗 **Backend Integrations**
+- 📊 **Dashboards & Admin Tools**
+- 🚀 **Startup MVPs → Production Systems**
+
+## 📈 Engineering Principles
+
+- ✅ Production over prototypes
+- 🧼 Clean, readable code
+- 🔍 Strong debugging skills
+- 🧪 Testing where it matters
+- 📚 Continuous learning
+- 🧠 Simple > Clever
+
+## 🧩 Current Focus
+
+- Advanced Shopify app architecture
+- High-traffic eCommerce performance
+- Headless commerce at scale
+- AI-assisted commerce workflows
+
+## 🤝 Let’s Connect
+
+- 💼 Open to **remote, paid roles**
+- 🚀 Interested in **serious products, not hype**
+- 🛠️ Happy to collaborate with founders & teams
+
+📫 **Reach out if you’re building something real.**
 
 ## 📈 Activity Graph
 
 [![David Kasilag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=max-passion&theme=react-dark)](https://github.com/max-passion)
-
-<br/>
 
 ## ❤ Views and Followers
 
@@ -95,3 +199,7 @@
     <img src="https://komarev.com/ghpvc/?username=max-passion">
 </a>
 <a href="https://github.com/DAVID-KASILAG/-github-readme-stats/tree/main"><img src="https://img.shields.io/github/followers/max-passion?label=Followers&style=social" alt="GitHub Badge"></a>
+
+---
+
+⭐ _If you like clean systems and scalable commerce, feel free to explore my repos._
