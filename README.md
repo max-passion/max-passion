@@ -77,11 +77,8 @@
 <a href="https://jwt.io" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40"/>
 </a>
-    <br/>
+<br/>
 
-<!-- <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="David Kasilag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=max-passion&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p> -->
 </p>
 
 ## 📈 Activity Graph
@@ -92,7 +89,5 @@
 
 ## ❤ Views and Followers
 
-<a>
-    <img src="https://komarev.com/ghpvc/?username=max-passion">
-</a>
+<a><img src="https://komarev.com/ghpvc/?username=max-passion"></a>
 <a><img src="https://img.shields.io/github/followers/max-passion?label=Followers&style=social" alt="GitHub Badge"></a>
