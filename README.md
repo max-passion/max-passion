@@ -81,12 +81,6 @@
 
 </p>
 
-## 📈 Activity Graph
-
-[![David Kasilag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=max-passion&theme=react-dark)](https://github.com/max-passion)
-
-<br/>
-
 ## ❤ Views and Followers
 
 <a><img src="https://komarev.com/ghpvc/?username=max-passion"></a>
