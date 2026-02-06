@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank">
-  <img src="https://camo.githubusercontent.com/5045ceef59e57d10080a7be92afe272464b1fb9f0c3c234fffa053de50daad9a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </a>
 <a href="https://graphql.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
